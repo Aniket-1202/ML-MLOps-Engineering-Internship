@@ -1,0 +1,7 @@
+2026-07-15 05:57:46 | INFO | Job start
+2026-07-15 05:57:46 | INFO | Config loaded + validated: seed=42, window=5, version=v1
+2026-07-15 05:57:46 | INFO | Rows loaded: 10000
+2026-07-15 05:57:46 | INFO | Rolling mean computed with window=5
+2026-07-15 05:57:46 | INFO | Signal generation complete
+2026-07-15 05:57:46 | INFO | Metrics summary: rows_processed=10000, signal_rate=0.4991, latency_ms=16
+2026-07-15 05:57:46 | INFO | Job end | status=success
